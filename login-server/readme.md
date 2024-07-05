@@ -1,4 +1,6 @@
 # Auth application
+ https://oshapkun.github.io/node_auth-app/
+ 
 Implement an application that allows user to:
 - Register using name, email and password (only non authenticated)
   - Inform the users about the rules for a password and check them
